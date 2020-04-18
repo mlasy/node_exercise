@@ -1,4 +1,4 @@
-Why did you pick your particular your design? What assumptions did you make, and what tradeoffs did you consider?
+**Why did you pick your particular your design? What assumptions did you make, and what tradeoffs did you consider?*
 
 1. i chose to work with mongoose here, since it abstracts away a lot of the mongodb drivers functionallity
 
@@ -18,7 +18,7 @@ Why did you pick your particular your design? What assumptions did you make, and
 5. I removed all console.logs as it would be the case in any production system.
    however, i kept the comments (1-4) to indicate the single tasks which are being executed.
 
-What is the complexity of your operations (O- notation)?
+**What is the complexity of your operations (O- notation)?**
 
 Since i didnt create an Index for any of the fields but the orderId, the O-notations are
 
