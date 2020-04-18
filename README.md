@@ -1,4 +1,4 @@
-**Why did you pick your particular your design? What assumptions did you make, and what tradeoffs did you consider?*
+**Why did you pick your particular your design? What assumptions did you make, and what tradeoffs did you consider?**
 
 1. i chose to work with mongoose here, since it abstracts away a lot of the mongodb drivers functionallity
 
